@@ -1,0 +1,18 @@
+name: TFM_3
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas=1.2.4
+  - gdal=2.3.3
+  - fiona=1.8.4
+  - geopandas=0.6.1
+  - scikit-learn=0.24.1
+  - matplotlib=3.3.4
+  - numpy=1.19.2
+  - seaborn=0.11.1
+  - pydotplus=2.0.2
+  - jupyter=1.0.0
+  - umap-learn=0.5.1
+  - scipy=1.6.2
+  - openpyxl=3.0.7
